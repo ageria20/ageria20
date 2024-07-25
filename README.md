@@ -1,10 +1,10 @@
 Here some of my project: 
 - Wether App - https://gerryweatherapp.netlify.app/
 
-
+Profile:
 - 👋 Hi, I’m @ageria20
 - 👀 I’m interested in coding => [Javascript, Sass, React, Java]
-- 🌱 I’m currently learning to became a Full-Stack Developer
+- 🌱 I’m currently studying to became a Full-Stack Developer
 - 📫 How to reach me ageria20@gmail.com
 
 <!---
