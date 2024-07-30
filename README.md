@@ -1,5 +1,5 @@
 Here some of my project: 
-- Wether App - https://gerryweatherapp.netlify.app/
+- <a href="https://gerryweatherapp.netlify.app/">Wether App</a>
 
 Profile:
 - 👋 Hi, I’m @ageria20
