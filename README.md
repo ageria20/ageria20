@@ -2,10 +2,12 @@ Here some of my project:
 - <a href="https://gerryweatherapp.netlify.app/">My Wether App</a>
 
 Profile:
-- 👋 Hi, I’m @ageria20
+- 👋 Hi, I’m Andrea Geria and I'm 29.
 - 👀 I’m interested in coding => [Javascript, Sass, React, Java]
 - 🌱 I’m currently studying to became a Full-Stack Developer
-- 📫 How to reach me ageria20@gmail.com
+- 📫 How to reach me:
+-         mail -> ageria20@gmail.com
+-         LinkedIn -> <a href="https://www.linkedin.com/in/andrea-geria-239446104/">My Profile</a>
 
 
 <div class="my-3">
