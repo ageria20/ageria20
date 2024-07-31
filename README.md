@@ -5,9 +5,7 @@ Profile:
 - 👋 Hi, I’m Andrea Geria and I'm 29.
 - 👀 I’m interested in coding => [Javascript, Sass, React, Java]
 - 🌱 I’m currently studying to became a Full-Stack Developer
-- 📫 How to reach me:
--         mail -> ageria20@gmail.com
--         LinkedIn -> <a href="https://www.linkedin.com/in/andrea-geria-239446104/">My Profile</a>
+- 📫 How to reach me: mail -> ageria20@gmail.com  & LinkedIn -> <a href="https://www.linkedin.com/in/andrea-geria-239446104/">My Profile</a>
 
 
 <div class="my-3">
