@@ -23,6 +23,7 @@ Profile:
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" alt="springboot" width="50"/>
   <img src="https://banner2.cleanpng.com/20180920/ztj/kisspng-hibernate-object-relational-mapping-java-spring-fr-hibernate-logo-svg-vector-amp-png-transparent-1713935223258.webp" alt="hibernate-jpa" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50"/>
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg](https://blog.kakaocdn.net/dn/bAXzfD/btsrDGURGSd/jvJvZ8dQuhNkw6JaqSOuak/img.png)" alt="postgresql" width="50"/>
  
 </div>
 <!---
