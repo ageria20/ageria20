@@ -7,7 +7,7 @@ Profile:
 - 🌱 I’m currently studying to became a Full-Stack Developer
 - 📫 How to reach me: mail -> ageria20@gmail.com  & LinkedIn -> <a href="https://www.linkedin.com/in/andrea-geria-239446104/">My Profile</a>
 
-
+![](https://komarev.com/ghpvc/?username=ageria20&style=for-the-badge&color=green)
 <div class="my-3">
   <h3>MY Skills</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-plain.svg" alt="html" width="50"/>
@@ -39,4 +39,5 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=ageria20&color=green)
+
+
