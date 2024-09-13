@@ -38,6 +38,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ageria20&theme=vue-dark&show_icons=true&hide_width=100%_border=true&layout=compact" alt="top_languages" style="width: 100%"/>
 
 </div>
-<div>
+
 ![](https://komarev.com/ghpvc/?username=ageria20&style=for-the-badge&color=green)
-</div>
+
